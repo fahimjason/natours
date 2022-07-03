@@ -2,6 +2,8 @@
 
 This repo contains starter files and the finished project files for all the project.
 
+Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
+
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the codes** 👇
 
 ## FAQ
