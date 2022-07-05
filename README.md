@@ -1,4 +1,4 @@
-# FAQ for my Advanced CSS Project
+# FAQ for Natours CSS Project
 
 This repo contains starter files and the finished project files for all the project.
 
